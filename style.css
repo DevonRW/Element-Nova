@@ -12,6 +12,7 @@
 .widget-area {
 	overflow: hidden;
 	width: 100%;
+  padding:10px;
   background:gray;
   background:rgba(0, 0, 0, 0.2);
 }
