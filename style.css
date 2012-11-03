@@ -377,7 +377,7 @@ body{
   font-family: 'Segoe UI Symbol';
 }
 
-@media(min-width:500px){
+@media(min-width:32em){
   #primary{
     float:left;
     width:60%
