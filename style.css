@@ -6,15 +6,10 @@
 	margin: 1em;
 }
 #primary {
-	float: left;
-	margin: 0 -240px 0 0;
+
 	width: 100%;
 }
-#content {
-	margin: 0 280px 0 0;
-}
 #main .widget-area {
-	float: right;
 	overflow: hidden;
 	width: 220px;
   background:gray;
@@ -376,4 +371,14 @@ article.comment {
 
 body{
   font-family: 'Segoe UI Symbol';
+}
+
+@media(min-device-width:500px){
+  #primary{
+    float:left;
+  }
+  .widget-area{
+    float:right;
+    width:20%;
+  }
 }
