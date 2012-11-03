@@ -9,9 +9,9 @@
 
 	width: 100%;
 }
-#main .widget-area {
+.widget-area {
 	overflow: hidden;
-	width: 220px;
+	width: 100%;
   background:gray;
   background:rgba(0, 0, 0, 0.2);
 }
@@ -376,9 +376,10 @@ body{
 @media(min-device-width:500px){
   #primary{
     float:left;
+    width:60%
   }
   .widget-area{
     float:right;
-    width:20%;
+    width:40%;
   }
 }
