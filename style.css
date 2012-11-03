@@ -382,4 +382,10 @@ body{
     float:right;
     width:40%;
   }
+
+  [role="navigation"]{
+    float:right;
+    width:40%;
+     
+  }
 }
