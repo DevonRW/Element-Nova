@@ -1,5 +1,3 @@
-
-
 /* =Structure
 -------------------------------------------------------------- */
 
@@ -19,6 +17,8 @@
 	float: right;
 	overflow: hidden;
 	width: 220px;
+  background:gray;
+  background:rgba(0, 0, 0, 0.2);
 }
 #colophon {
 	clear: both;
@@ -301,8 +301,7 @@ img.alignright {
 .wp-caption .wp-caption-text {
 	margin: .5em;
 }
-.gallery-caption {
-}
+
 .wp-smiley {
 	margin: 0;
 }
@@ -368,8 +367,6 @@ article.comment {
 .widget-area .widget_search input {
 	float: left;
 }
-
-
 /* =Footer
 -------------------------------------------------------------- */
 
@@ -377,8 +374,6 @@ article.comment {
 	padding: 1em 0 0;
 }
 
-
-
 body{
-  font-family: "Lucida Console";
+  font-family: 'Segoe UI Symbol';
 }
