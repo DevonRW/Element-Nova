@@ -1,0 +1,18 @@
+body {
+  background-color: #f2e0bd;
+  color: #594c4c;
+  font-family: "Noto Sans", sans-serif;
+}
+
+a {
+  color: medium;
+  text-decoration: none;
+}
+a:visited {
+  text-transform: italicize;
+}
+
+article h1 {
+  font-family: "Press Start 2P", cursive;
+  color: #1d1626;
+}
