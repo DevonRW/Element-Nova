@@ -1,0 +1,47 @@
+---
+title: PITDC Round 2
+slug: pitdc-round-2
+time: 04:11:44
+---
+I managed a better night's sleep compared to the night before, however it was harder to get up for some reason.
+
+I moseyed downstairs at about 1/2 way through breakfast time and noticed the Lean Coffee group was full. I also noticed my buddy, Andrew, was there. Andrew had supper with Ralph and myself last night and asked us tons of questions about Agile and processess and we gave as many tips as we could think of.
+##Session 1: Multitaskers Anonymous
+This session started with everyone standing up and doing an exercise to prove a point. This was led by Steve Rogalsky, same Agile dude from yesterday's Agile session. I really enjoyed yesterdays session and again, I enjoyed this session.
+
+The general idea behind this session was that interruptions cost money. Lots of money. And if you want to interrupt me because something is important, be aware that it'd better be MORE important than what I'm working on.
+
+We had a great Q/A session at the end. I spoke to Steve afterwards and thanked him for the sessions. He mentioned to me to read both "Getting things done" and "Personal Kanban". I found it interesting that Steve says "Kan Ban" not like everyone else I know says it "Can Ban". He says it "かんばん" ... and if that doesn't come across in Hiragana it's "khan bahn". Anyways, I found that interesting and then realized that it's being said that way as it's a Japanese term/word/thinger.
+
+So yea, for 8am I sure learned a lot.
+
+##Session 2: Open Data thingermahoosit
+I don't remember the actual name of the session. Andy Dyck, Chad McCallum, and Dale Zack presented the overal ideas of Open Data, provided a few examples, and started a conversation. I was able to mention the map I put together using C.o.S's Open Data stuffs (<a href="http://devonrw.github.com/2012SaskatoonElectionInteractiveMap/interactive-map.html">linky</a>). I'm probably done working on it, onto other projects and learning.
+
+##Session 3: Let's get Organized
+This was presented by a guy from Point2, Chris Dagenais. He went through some more Agile ideas and while I've noticed no Agile peeps will come out and say it, Agile really seems to play on emotions. For this, if someone tells me to do something AND HOW TO DO IT, I'll do it and be pissed off. If someone presents me with a problem and needs my help, I'm emotionally invested and want to do well. I've noticed that whenever someone comes up to me with the solution and wants me to do it that I get frustrated that I'm doing it, when they have the solution. However, maybe a good way of working with that is simply pairing with them and letting them drive. They have the idea already and I can work with them to understand their idea fully, and they can be the ones to actually do it.
+
+Building a healthy culture was also discussed. The entire time this was discussed I couldn't stop thinking that I had emailed Eden saying that ladies who work at zu are showered in puppies and throw watermelons...just saying :D
+
+Chris used Voltron as an analogy for a team. I liked that. I'm using that. Thanks Chris!
+
+We had a decent group discussion after his presentation was over (I didn't realize he was done, I was touching notes onto my tablet and then this big discussion started).
+
+One thing that was discussed was removing people who were poor to the culture (toxic was the term used). Those of us with Agile experience said "fire em", which may sound harsh, but what are they actually costing your team/company's goals and revenue when you really dig down deep and look at numbers and smart sounding things. I mentioned that, at zu, we pair with developers after they make it past the 1st (or maybe 2nd) round of interviews. Pairing with a developer lets you know how well they work with the team. We had two teams want to hire the same woman because she worked so well with both of us. She was hired, sadly chose the other team, but luckily our teams have merged and now I'm working with her (boy I'm rambly...).
+
+##Lunch: Pasta
+Sat at a table with Ralph, Dave Mosher, Jordan, and... Dale Zak (I think). We had pasta, it was yummers.
+
+A game of jeopardy was played with 3 people and they all got Best Buy gift cards. None of them knew what Joss Whedon looked like.
+
+##Session 4/5: Sencha Dojo!
+Jordan Boesch gave a quick (45 minutes +) overview of Sencha and then we dug into the code and started building all the things.
+
+The code that was setup for us to download actually had a few bugs in it before it was useable. I'm not sure if Jordan did this on purpose or not. I learned a lot more by debugging the problems and having to think about what is going on as opposed to just typing what was on the screen, refreshing a page, and saying "yup, that happens here too". I've been to a couple Code Dojos over the past year and the idea of just typing what someone else types and getting the same result feels silly.
+
+It was kinda nice seeing that everyone seemed to run into a little snag while copy typing (that's what I'm calling it now, that's what it is :P) and they all were not the same. I ran into a couple problems with my code too, but it turns out that I naturall type PDF as opposed to PCD (I WONDER WHY?!? *sarcasm*).
+
+Kevin and I had to head back to Saskatoon after our Senchaing was completed. I managed to make it home at about 7:20 and was able to have 2 sleeping girlies by 9pm. Turns out roughly 0% of the housework had been looked after. Nice. All caught up now.
+
+##Closing Thoughts
+A special thanks to zu for footing the bill for this trip/conference/mega-learn-a-thon. One thing I've been wanting to do for about a year now is go to a conference outside of Saskatoon. Being able to increase my abilities this way has been awesome.
