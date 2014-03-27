@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <title>Element Nova - Setup Sublime Linter for PHP</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+  </head>
+  <body>
+    <header role="banner">
+        <h1>Element Nova</h1>
+    </header>
+    <main id="main" role="main">
+      <p>SublimeLinter is a great tool for SublimeText2, however, it took a bit of research.</p>
+
+<p>Installing is easy, go here: <a href="https://github.com/SublimeLinter/SublimeLinter#installing">https://github.com/SublimeLinter/SublimeLinter#installing</a></p>
+
+<p>Setting up for PHP development is the harder part.</p>
+
+<p>After a bunch of research I figured it out</p>
+
+<p>I have both wamp and xampp installed on my machine, but I used xampp for this example as that's the php path I found first.</p>
+
+<p>In SublimeLinter -&gt; Settings - User add the following (yes you need to \s)
+<code>
+{
+	"sublimelinter_executable_map":
+    {
+    	"php": "C:\\xampp\\php\\php.exe"
+    }
+}
+</code></p>
+
+<p>And save. I found I had to reload ST2 to get it to work properly.</p>
+
+<p>After you reload, open up a php file and rename the scope of a function or something, as you type it you will see the entire line (or sometimes the line below) get highlighted. This means it's working.</p>
+
+<p>If you didn't see any line highlights, open up the the command line (ctrl/cmd+~) and you will see that PHP hadn't loaded properly into ST2. Fix up the path to your php.exe in the SublimeLinter User Settings and then you will be good to go.</p>
+
+<h2 id="update">Update</h2>
+<p>Sublime Linter no longer highlights syntax every milisecond, it now waits for you to stop typing a bit or save.</p>
+
+    </main>
+
+    <aside>
+      <h2>Recent Articles</h2>
+      <ol>
+        
+          <li><a href="/2014/03/22/now-on-middleman.html">now on Middleman</a> <span>Mar 22</span></li>
+        
+          <li><a href="/2014/01/30/warlords-of-draenor-perf-audit.html">Warlords of Draenor Performance Audit</a> <span>Jan 30</span></li>
+        
+          <li><a href="/2013/05/28/barcampyxe-recap.html">BarCampYXE Recap</a> <span>May 28</span></li>
+        
+          <li><a href="/2013/04/02/now-on-piecrust.html">Now on Piecrust</a> <span>Apr  2</span></li>
+        
+          <li><a href="/2012/10/30/rwd-and-interactive-charts.html">RWD and Interactive Charts</a> <span>Oct 30</span></li>
+        
+          <li><a href="/2012/10/03/pitdc-round-2.html">PITDC Round 2</a> <span>Oct  3</span></li>
+        
+          <li><a href="/2012/10/02/pitdc-day-1.html">PITDC day 1</a> <span>Oct  2</span></li>
+        
+          <li><a href="/2012/09/15/why-i-love-what-i-do.html">Why I love what I do</a> <span>Sep 15</span></li>
+        
+          <li><a href="/2012/09/10/recaptcha-alternative.html">Recaptcha alternative</a> <span>Sep 10</span></li>
+        
+          <li><a href="/2012/09/08/the-smart-fridge-that-id-actually-buy.html">The Smart Fridge that I'd actually buy</a> <span>Sep  8</span></li>
+        
+      </ol>
+
+      <h2>Tags</h2>
+      <ol>
+        
+      </ol>
+
+      <h2>By Year</h2>
+      <ol>
+        
+          <li><a href="/2014.html">2014 (2)</a></li>
+        
+          <li><a href="/2013.html">2013 (2)</a></li>
+        
+          <li><a href="/2012.html">2012 (9)</a></li>
+        
+      </ol>
+    </aside>
+  </body>
+</html>
