@@ -6,6 +6,6 @@
   </head>
   <body>
   <h1>Element Nova</h1>
-  <p>Coming Soon. &gt;<span style="font-size:20px">❋</span>&lt;</p>
+  <p>Coming Soon. &lt;<span style="font-size:20px">❋</span>&gt;</p>
   </body>
 </html>
