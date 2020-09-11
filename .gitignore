@@ -3,13 +3,13 @@
 
 node_modules
 
-#11ty Netlify Jumpstart
-.prettierrc.yaml
-.stylelintignore
-.stylelintrc.yaml
-functions
-netlify.toml
-package-lock.json
-package.json
-README.md
-src
+# build artefacts
+public
+src/css
+functions/*.json
+functions/*.html
+src/previews/*
+
+# secrets and errors
+.env
+.log
