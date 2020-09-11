@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+node_modules
+
+#11ty Netlify Jumpstart
+.prettierrc.yaml
+.stylelintignore
+.stylelintrc.yaml
+functions
+netlify.toml
+package-lock.json
+package.json
+README.md
+src
