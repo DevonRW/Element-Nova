@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+node_modules
+
+# build artefacts
+public
+src/css
+functions/*.json
+functions/*.html
+src/previews/*
+
+# secrets and errors
+.env
+.log
