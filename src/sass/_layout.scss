@@ -28,7 +28,15 @@ main::before {
 
 
 footer {
+  color: #fff;
+  text-align: center;
   margin-top: auto;
+  z-index: 100;
+
+  a:not(.tdbc-button) {
+    color: #fff;
+    text-decoration: underline;
+  }
 }
 
 article {
