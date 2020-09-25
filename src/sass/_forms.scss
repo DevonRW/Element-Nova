@@ -1,0 +1,33 @@
+input {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  border: 1px solid #000;
+  display: block;
+  height: 25px;
+  line-height: 25px;
+  margin-bottom: 1rem;
+  outline: none;
+}
+
+textarea {
+  border: 1px solid #000;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+}
+
+form {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    font-size: 1rem;
+  }
+}

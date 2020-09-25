@@ -8,8 +8,8 @@
   padding: 0.25em 1em;
   transition: 180ms ease-in-out;
   transition-property: background, border;
-  border-radius: $tdbc-border-radius/2;
-  background-color: tdbc-color("primary");
+  border-radius: 0;
+  background-color: #000;
   color: #fff;
   font-size: 1.125rem;
   line-height: 1.1;

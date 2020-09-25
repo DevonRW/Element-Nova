@@ -53,6 +53,7 @@
   ],
   "dependencies": {
     "chrome-aws-lambda": "5.2.1",
+    "include-media": "^1.4.9",
     "puppeteer-core": "5.2.1"
   }
 }

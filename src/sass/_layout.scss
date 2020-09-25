@@ -1,11 +1,11 @@
 // stylelint-disable-next-line selector-max-type
 body {
+  background: tdbc-color("background");
+  color: $tdbc-color-body;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  background-color: tdbc-color("background");
-  color: $tdbc-color-body;
   font-family: $tdbc-font-family;
+  min-height: 100vh;
 }
 
 // stylelint-disable selector-max-type, selector-no-qualifying-type
@@ -14,6 +14,18 @@ main.tdbc-container {
   padding-top: 5vh;
   padding-bottom: 5vh;
 }
+
+main::before {
+  background: url('/img/elementnova_logo.png') no-repeat top right;
+  content: "";
+  filter: grayscale(50%);
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 
 footer {
   margin-top: auto;
