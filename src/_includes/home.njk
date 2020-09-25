@@ -5,31 +5,91 @@ templateEngineOverride: md, njk
 ---
 
 <main>
-  <h1>Element Nova</h1>
+  <header class="tdbc-card tdbc-card--alt">
+    <h1 class="tdbc-card__title">Element Nova</h1>
+  </header>
 
-  <p>Tools to improve your game</p>
 <section>
-  <article>
-    <a href="http://thecrmarket.com" target="_blank">The CR Market</a>
 
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">About Us</h2>
+    <div class="tdbc-card__content">
+      <p>We love geeky things. We build the web.</p>
+      <p>Like you, we're fans. Whether we follow a fantasy world filled with monsters and political intrigue, game with some friends, or cheer on the best in e-sports, we're fans.</p>
+      <p>Element Nova was created out of a passion for the web and wanting to help fans.</p>
+      <p>Our goal is to build tools for the web to help people enjoy their fandom. Our first two tools, <strong>The CR Market</strong> and <strong>WoW Recipe Smithy</strong> do just that and more are being worked on.</p>
+    </div>
   </article>
 
-  <article>
-  <a href="https://warcraft-recipes.com/" target="_blank">Warcraft Recipe Smithy</a>
-
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">The CR Market</h2>
+    <div class="tdbc-card__content">
+      <p>There are endless creators who love <strong>Critical Role</strong> and make amazing things. It isn't easy to find these creators.</p>
+      <p>The CR Market's goal is to help you find those creators and their products. Be it Pins, Prints, Pillows, Masks, Buttons, or Art Commissions you'll find a Creator that's making what you need at The CR Market.</p>
+      <p><a href="http://thecrmarket.com" target="_blank">Visit The CR Market</a></p>
+    </div>
   </article>
 
-  <article>
-    FFRK Magicite Builder: - Coming Soon -
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">WoW Recipe Smithy</h2>
+    <div class="tdbc-card__content">
+      <p>Your <strong>World of Warcraft</strong> toons have lots of Recipes for their Professions. Finding out how to get that specific recipe is needed.</p>
+      <p>Inspired by <a href="https://www.Kruithne.net" target="_blank">Kru's</a> previous Recipe Site, find out what Recipes your Main and Alts are missing and then find out where to obtain them.</p>
+      <p><a href="https://warcraft-recipes.com/" target="_blank">WoW Recipe Smithy</a>
+    </div>
   </article>
 
-  <article>
-    Project #4: - Coming Soon -
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">FFRK Magicite Builder</h2>
+    <div class="tdbc-card__content">
+      <p>Magicite Decks can be awkward to understand and share for tips from the community. This will ease that.</p>
+      <p>- Under Construction -</p>
+    </div>
   </article>
 
-  <article>
-    Project #5: - Coming Soon -
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">Project #4</h2>
+    <div class="tdbc-card__content">
+      <p>Coming Soon</p>
+    </div>
   </article>
+
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">Project #5</h2>
+    <div class="tdbc-card__content">
+      <p>Coming Soon</p>
+    </div>
+  </article>
+
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">Support Us</h2>
+    <div class="tdbc-card__content">
+      <p>We love doing this. We want to do more.</p>
+      <p>Without your help these projects aren't possible.</p>
+      <p>Currently the best way to support us is on <a href="https://www.patreon.com/elementnova/" target="_blank">Patreon</a> and to bring your community to this site.</p>
+    </div>
+  </article> 
+
+  <article class="tdbc-card">
+    <h2 class="tdbc-card__title">Contact Us</h2>
+    <div class="tdbc-card__content">
+      <p>Don't hesitate to contact us. If you need to get in touch for any reason then send us a message.</p>
+      <form name="contact" method="POST" data-netlify="true">
+        <ul>
+          <li>
+            <label for="email">Email:</label>
+            <input name="email" type="email" required />
+          </li>
+          <li>
+            <label for="message">Message:</label>
+            <textarea name="message" required></textarea>
+          </li>
+          <li><button type="submit" class="tdbc-button tdbc-button-outlined">Send</button></li>
+        </ul>
+      </form>
+    </div>
+  </article>
+
 </section>
   {{ content | safe }}
 
